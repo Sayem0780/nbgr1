@@ -1,1 +1,6 @@
-﻿Flask==3.0.1
+Flask==3.0.1
+Pillow==8.3.2
+numpy==1.19.4
+torch==1.7.1
+torchvision==0.8.2
+rembg==2.0.52
